@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shad-developer
 - 👀 I’m interested in web programming
-- 🌱 I’m currently learning advanced programming languages as web developer (MERN STACK)
+- 🌱 I’m as web developer In MERN STACK and PHP also
 - 💞️ I’m looking to collaborate on Github 
 - 📫 How to reach me (muhammadumairshad22@gmail.com)
 
